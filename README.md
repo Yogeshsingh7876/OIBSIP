@@ -18,3 +18,13 @@ Task 2 : Data cleaning is the process of fixing or removing incorrect, corrupted
 data within a dataset. Messy data leads to unreliable outcomes. Cleaning data is an essential
 part of data analysis, and demonstrating your data cleaning skills is key to landing a job. Here
 are some projects to test out your data cleaning skills: 
+
+
+
+
+
+Task 3 : Sentiment Analysis
+
+The primary goal is to develop a sentiment analysis model that can accurately classify the
+sentiment of text data, providing valuable insights into public opinion, customer feedback, and
+social media trends.
